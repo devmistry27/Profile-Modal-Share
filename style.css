@@ -22,7 +22,7 @@ body {
     border-radius: 50%;
     box-shadow: 0 0 50px #d84869;
     background: linear-gradient(-25deg, #d84869, #f46641);
-    animation: pulsate 15s infinite;
+    animation: pulsate 2s infinite;
     animation-timing-function: linear;
 
 }
@@ -53,7 +53,7 @@ body {
     border-radius: 50%;
     box-shadow: 0 0 50px #5648d8;
     background: linear-gradient(-25deg, #5648d8, #8641f4);
-    animation: pulsate 8s infinite;
+    animation: pulsate 2s infinite;
     animation-timing-function: linear;
 
 }
